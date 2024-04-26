@@ -4,7 +4,7 @@
 
 * 🌍  Moro em São Paulo - SP
 * 📚  Estudante de Desenvolvimento de Sistemas na ETEC Camargo Aranha - 3/3
-* 📺  Gosto assistir séries nas horas vagas
+* 📺  Gosto de assistir séries nas horas vagas
 
 
 ###  GitHub Stats
