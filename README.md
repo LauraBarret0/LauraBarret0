@@ -33,9 +33,12 @@
 </div>
 
 <!-- Snake Game -->
-<p align="center">
-  ![snake gif](https://github.com/LauraBarret0/LauraBarret0/blob/output/github-contribution-grid-snake.svg)
-</p>
-
+<div align="center">
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraBarret0/LauraBarret0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraBarret0/LauraBarret0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LauraBarret0/LauraBarret0/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=83C9F4&reversal=true&section=footer"/>
