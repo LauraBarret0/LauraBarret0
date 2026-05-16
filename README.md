@@ -5,18 +5,17 @@
 -----------------------------
 
 
-
-
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraBarret0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=83C9F4&icon_color=A3D5FF&text_color=D9F0FF&bg_color=0d1117" alt="Laura Barreto github stats"/> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBarret0&layout=compact&hide_border=true&title_color=83C9F4&text_color=D9F0FF&bg_color=0d1117" />
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=LauraBarret0&theme=dark&background=17171700&ring=83C9F4&currStreakLabel=6F73D2&sideNums=D9F0FF&border=EB545400&fire=6F73D2&currStreakNum=D9F0FF&sideLabels=6F73D2&dates=7681B37C)](https://git.io/streak-stats)
+<!-- Github Stats -->
+ <img src="https://github-readme-stats-steel-omega.vercel.app/api?username=LauraBarret0&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=83C9F4&icon_color=A3D5FF&text_color=D9F0FF&bg_color=0d1117" alt="Laura Barreto github stats"/>
+<!-- Most Used Languages -->
+  <img src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LauraBarret0&layout=compact&hide_border=true&title_color=83C9F4&text_color=D9F0FF&bg_color=0d1117"/>
+</div>
 
 </div>
 
 -----------------------------
+<!--Tecnologias-->
 <div align="center" >
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![React](https://img.shields.io/badge/react-%23323330.svg?style=flat&logo=react&logoColor=%23F7DF1E)
@@ -25,6 +24,8 @@
 
 
 <div align="center">
+
+<!--Redes Sociais-->
 
 <a href="https://www.instagram.com/laura.barreeto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: laurasousa0623@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
